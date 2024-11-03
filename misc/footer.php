@@ -14,12 +14,14 @@
                 <a class="btn btn-outline-light btn-social mx-1" href="https://discord.gg/daaumschlung">
                     <img src="assets/img/dc.png" alt="Discord" style="width: 55px; height: 55px;">
                 </a>
+                <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/pascal-stein-0aa54632b/">
+                    <img src="assets/img/lin.png" alt="LinkedIn" style="width: 70px; height: 70px;">
+                </a>
             </div>
             <div class="col-lg-4">
-                <h4 class="text-uppercase mb-4">About Freelancer</h4>
+                <h4 class="text-uppercase mb-4">Über die Webseite</h4>
                 <p class="lead mb-0">
-                    Freelance is a free to use, MIT licensed Bootstrap theme created by
-                    <a href="http://startbootstrap.com">Start Bootstrap</a>.
+                    Diese Webseite wird eine Art Dokumentation der Ausbildung zum Fachinformatiker - Anwendungsentwicklung bei der DAA.
                 </p>
             </div>
         </div>
@@ -28,6 +30,8 @@
 <div class="copyright py-4 text-center text-white">
     <div class="container">
         <small>Copyright &copy; Pascal Stein 2024</small>
+        <br>
+        <small> Freelance is a free to use, MIT licensed Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a></small>
     </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
