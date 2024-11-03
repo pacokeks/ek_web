@@ -1,5 +1,5 @@
 <?php
-$title = "Über mich";
+$title = "Geheime Informationen";
 require_once 'misc/header.php';
 ?>
 

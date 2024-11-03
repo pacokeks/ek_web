@@ -3,7 +3,6 @@ $title = "Über mich";
 require_once 'misc/header.php';
 ?>
 
-<!-- Full Page Container -->
 <div class="d-flex flex-column min-vh-100">
     <header class="masthead bg-primary text-white text-center flex-grow-1">
         <section class="page-section bg-primary text-white mb-0" id="about">

@@ -7,4 +7,4 @@
     <link href="css/styles.css" rel="stylesheet">
 </head>
 <body>
-    <?php require_once 'misc/navbar.php'?>
+    <?php require_once 'misc/navbar.php' ?>

@@ -19,16 +19,18 @@
                 <h4 class="text-uppercase mb-4">About Freelancer</h4>
                 <p class="lead mb-0">
                     Freelance is a free to use, MIT licensed Bootstrap theme created by
-                    <a href="http://startbootstrap.com">Start Bootstrap</a>
-                    .
+                    <a href="http://startbootstrap.com">Start Bootstrap</a>.
                 </p>
             </div>
         </div>
     </div>
 </footer>
-    <div class="copyright py-4 text-center text-white">
-    <div class="container"><small>Copyright &copy; Pascal Stein 2024</small></div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+<div class="copyright py-4 text-center text-white">
+    <div class="container">
+        <small>Copyright &copy; Pascal Stein 2024</small>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/scripts.js"></script>
+<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
 </html>

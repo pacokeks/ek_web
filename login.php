@@ -1,7 +1,6 @@
 <?php
 $title = "Login";
 require_once 'misc/header.php';
-require_once 'misc/navbar.php';
 ?>
 
 <header class="masthead bg-primary text-white text-center">
@@ -32,4 +31,4 @@ require_once 'misc/navbar.php';
     </div>
 </header>
 
-<?php require_once 'misc/footer.php'?>
+<?php require_once 'misc/footer.php'; ?>
