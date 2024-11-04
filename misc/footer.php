@@ -17,6 +17,9 @@
                 <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/pascal-stein-0aa54632b/">
                     <img src="assets/img/lin.png" alt="LinkedIn" style="width: 70px; height: 70px;">
                 </a>
+                <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/pacokeks">
+                    <img src="assets/img/github-circle-svgrepo-com.png" alt="GitHub" style="width: 67px; height: 67px;">
+                </a>
             </div>
             <div class="col-lg-4">
                 <h4 class="text-uppercase mb-4">Über die Webseite</h4>
