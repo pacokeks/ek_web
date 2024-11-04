@@ -13,8 +13,9 @@ require_once 'misc/header.php';
             <div class="divider-custom-line"></div>
             <div class="divider-custom-line"></div>
         </div>
+        <p class="lead">Willkommen auf meiner persönlichen Website!</p>
         <p class="lead">Kurs: Web Programmierung by Ali Khorsandfard</p>
-        <p>Fachinformatiker - Anwendungsentwicklung Winter 2024</p>
+        <p>Fachinformatiker - Anwendungsentwicklung Sommer 2024</p>
         <p>Name: Pascal Stein</p>
         <p>Standort: Detmold</p>
     </div>

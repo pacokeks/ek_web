@@ -9,7 +9,6 @@ require_once 'misc/header.php';
         <div class="divider-custom divider-light">
             <div class="divider-custom-line"></div>
             <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-            <div class="divider-custom-line"></div>
         </div>
         <div class="col-lg-6 col-md-8">
             <form action="process_login.php" method="post" class="bg-white p-4 rounded shadow">
